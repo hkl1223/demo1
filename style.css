@@ -1,0 +1,61 @@
+body,h1,ul,li,p,{
+    margin: 0;
+    padding: 0;
+}
+a{
+text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+body{
+    font: 14px/1.4 Arial;
+    background-color: #fff2e3;
+    text-align: center;
+}
+.btn{
+    display: inline-block;
+    padding:5px 4px;
+    color:#fff;
+    background:#72b890;
+    border-radius:3px;
+}
+.btn:hover{
+    opacity:0.7;
+}
+.btn:active{
+    opacity:1;
+}
+.title{
+    color: #ccc;
+    font-family:"Microsoft YaHei";
+    font-size: 50px;
+    margin-top: 40px;
+}
+.description{
+    color: #aaa;
+    margin-top: 20px;
+}
+.tab-ct{
+    margin-top: 30px;
+}
+.tab-ct>li{
+    display: inline-block;
+    margin: 0 4px;
+}
+.work-img{
+    margin-top: 40px;
+}
+.operate-ct{
+    margin-top: 40px;
+}
+.operate-ct>li{
+    display: inline-block;
+    margin: 0 4px;
+}
+.footer{
+    margin: 30px;
+}
+.footer a{
+    color: #72b890;
+}
